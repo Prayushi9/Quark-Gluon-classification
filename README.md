@@ -4,11 +4,11 @@ A deep learning model (CNN) build to classify Quark and Gluon using particle ima
 # Dataset Description
 The dataset was provided by the CERN (2 https://cernbox.cern.ch/index.php/s/hqz8zE7oxyPjvsL). The file name used here is: 'QCDToGGQQ_IMGjet_RH1all_jet0_run0_n36272.test.snappy.parquet' where the 'X_jet' was the input image and 'y' was the target.
 
-- For training:
+- For training set:
     - Input: 10,000 images of size 125x125 and 3 channels
     - Target: 10,000 values of 0 or 1
 
-- For validation:
+- For validation set:
     - Input: 5390 images of size 125x125 and 3 channels
     - Target: 5390 values of 0 or 1
 
