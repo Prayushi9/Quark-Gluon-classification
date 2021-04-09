@@ -1,4 +1,5 @@
 # Quark-Gluon-classification
+A deep learning model (CNN) build to classify Quark and Gluon using particle images.
 
 # Dataset Description
 The dataset was provided by the CERN (2 https://cernbox.cern.ch/index.php/s/hqz8zE7oxyPjvsL). The file name used here is: 'QCDToGGQQ_IMGjet_RH1all_jet0_run0_n36272.test.snappy.parquet' where the 'X_jet' was the input image and 'y' was the target.
