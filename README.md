@@ -9,7 +9,7 @@ The dataset was provided by the CERN (2 https://cernbox.cern.ch/index.php/s/hqz8
     - Target: 10,000 values of 0 or 1
 
 - For validation:
-    - Input: 5390 images for size 125x125 and 3 channels
+    - Input: 5390 images of size 125x125 and 3 channels
     - Target: 5390 values of 0 or 1
 
 # Model Description
